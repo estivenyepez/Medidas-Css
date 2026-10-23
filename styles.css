@@ -27,11 +27,12 @@ section {
     width: 50%;
     height: 50%;
     background-color: #b0b0b0;
-    position: relative;
+    
 }
 #viewport {
     width: 50vw;
     height: 50vh;
-    background-color: #909090;
-    position: relative;
+    background-color: #ca6161;
+    border: solid 2px #131313;
+   
 }   
